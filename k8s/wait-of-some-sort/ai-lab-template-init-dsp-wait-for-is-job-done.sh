@@ -1,0 +1,1 @@
+../job/ai-lab-template-init-dsp-wait-for-is-job-done.sh

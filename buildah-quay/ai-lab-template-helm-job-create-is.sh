@@ -1,0 +1,1 @@
+../k8s/imagestreams/ai-lab-template-helm-job-create-is.sh

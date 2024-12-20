@@ -1,0 +1,1 @@
+../tekton/tasks-pipelines/rhdh-pipelines-build-image-set-tekton-results.sh

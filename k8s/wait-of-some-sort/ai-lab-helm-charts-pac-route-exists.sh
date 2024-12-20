@@ -1,0 +1,1 @@
+../routes/ai-lab-helm-charts-pac-route-exists.sh

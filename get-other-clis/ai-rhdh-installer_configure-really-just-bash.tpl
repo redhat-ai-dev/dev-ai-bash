@@ -1,0 +1,1 @@
+../tekton/operator-setup/ai-rhdh-installer_configure-really-just-bash.tpl

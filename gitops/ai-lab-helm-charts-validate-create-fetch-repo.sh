@@ -1,0 +1,1 @@
+../git/manage-repo/ai-lab-helm-charts-validate-create-fetch-repo.sh

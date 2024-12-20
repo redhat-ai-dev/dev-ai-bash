@@ -1,0 +1,1 @@
+../../k8s/statefulsets/ai-lab-template-dsp-clone-job-exec-into-ready-statefulset.sh

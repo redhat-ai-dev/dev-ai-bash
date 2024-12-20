@@ -1,0 +1,1 @@
+../tekton/tasks-pipelines/rhdh-pipelines-init-skopeo-inspect-upd-tekton-results.sh

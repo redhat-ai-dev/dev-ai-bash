@@ -1,0 +1,1 @@
+../statefulsets/ai-lab-template-dsp-clone-job-wait-statefulset-ready.sh

@@ -1,0 +1,1 @@
+../../env/ai-rhdh-installer-configure-dh.sh

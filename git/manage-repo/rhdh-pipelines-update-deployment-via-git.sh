@@ -1,0 +1,1 @@
+../../tekton/tasks-pipelines/rhdh-pipelines-update-deployment-via-git.sh

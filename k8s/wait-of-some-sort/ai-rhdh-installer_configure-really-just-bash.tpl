@@ -1,0 +1,1 @@
+../../get-other-clis/ai-rhdh-installer_configure-really-just-bash.tpl

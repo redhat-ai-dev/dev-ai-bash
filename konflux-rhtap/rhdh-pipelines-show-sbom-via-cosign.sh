@@ -1,0 +1,1 @@
+../tekton/tasks-pipelines/rhdh-pipelines-show-sbom-via-cosign.sh

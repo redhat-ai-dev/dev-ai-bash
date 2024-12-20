@@ -1,0 +1,1 @@
+../tekton/tasks-pipelines/rhdh-pipelines-summary.sh

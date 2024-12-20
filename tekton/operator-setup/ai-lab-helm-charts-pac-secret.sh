@@ -1,0 +1,1 @@
+../../k8s/secrets/ai-lab-helm-charts-pac-secret.sh

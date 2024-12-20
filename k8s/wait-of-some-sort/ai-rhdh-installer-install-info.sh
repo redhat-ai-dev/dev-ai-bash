@@ -1,0 +1,1 @@
+../../tekton/operator-setup/ai-rhdh-installer-install-info.sh

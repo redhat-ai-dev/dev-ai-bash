@@ -1,0 +1,1 @@
+../../tekton/tasks-pipelines/rhdh-pipelines-git-clone-symlink-check.sh
